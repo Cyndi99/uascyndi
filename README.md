@@ -8,3 +8,7 @@ Masuk ke link yang di sediakan, klik fork lalu clone or download
 # Langkah 2
 Melakukan konfigurasi virtual environment 
 ![F](https://user-images.githubusercontent.com/46753205/55855341-743c3880-5b91-11e9-8673-34b350cbc5d3.png)
+
+# Langkah 3
+klik terminal setelah masuk di lokal ketik pip list kemudian python -m pip install --upgrade pip
+![G](https://user-images.githubusercontent.com/46753205/55855972-232d4400-5b93-11e9-8aa4-4ee656f2237c.png)
